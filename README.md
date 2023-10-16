@@ -1,4 +1,4 @@
-# Import data from Azure server
+# :floppy_disk: Import data from Azure server
 ## PTBR:
 Importação e utilização de dados em servidor Azure para criação de um relatório utilizando Microsoft Power BI. Os dados incluídos no servidor foram anexados por meio do MySQL Workbench, por meio de um script providenciado pelo professor.
 
