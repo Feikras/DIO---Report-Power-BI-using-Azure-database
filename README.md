@@ -4,7 +4,7 @@ Importação e utilização de dados em servidor Azure para criação de um rela
 Obs: Servidor poderá estar desativado/excluido, devido ao fato de ter sido criado em um usuário gratuito. Este relatório foi criado como um projeto do BootCamp Santander de Ciência de Dados.
 Seguem anexas fotos do server ativo, comprovando sua existência e demais informações.
 
-------------------//-------------------//--------------------//--------------------//--------------------//--------------------//-------------------//--------------------//----------------
+------------------//-------------------//--------------------//--------------------//--------------------//--------------------//-------------------
 
 # ENUS:
 Importing and utilization of data gathered from an Azure Server to create a report using Microsoft's Power BI application
